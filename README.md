@@ -1,3 +1,2 @@
 #my devops practicle
-This is my code
-lalit kumbhar
+This is my code for practicle exam 
